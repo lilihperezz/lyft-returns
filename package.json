@@ -1,0 +1,29 @@
+{
+  "name": "lyft-returns",
+  "version": "1.0.0",
+  "description": "js,jquery,ajax,apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilihperezz/lyft-returns.git"
+  },
+  "keywords": [
+    "ajax",
+    "apis",
+    "jquery",
+    "js"
+  ],
+  "author": "campanita-lili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilihperezz/lyft-returns/issues"
+  },
+  "homepage": "https://github.com/lilihperezz/lyft-returns#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
